@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quck Note\'s</string>
+    <string name="notes_app">Quck Note\'s</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Title</string>
+    <string name="subtitle">Subtitle</string>
+    <string name="notes">Notes..</string>
+    <string name="are_you_sure_you_want_to_delete_n_this_note">Are You Sure You Want To Delete \n This Note</string>
+    <string name="update">Are You Sure You Want To Update \n This Note</string>
+    <string name="life_is_brief_remember_everything_simply_make_a_note_of_it">Life is brief\n remember everything—simply make a note of it.</string>
+    <string name="high">High</string>
+    <string name="medium">Medium</string>
+    <string name="low">Low</string>
+    <string name="delete">Delete</string>
+    <string name="favorite">Favorite</string>
+</resources>
